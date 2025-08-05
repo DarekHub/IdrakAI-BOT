@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#333"/>
+    </marker>
+  </defs>
+  <rect x="20" y="60" width="120" height="80" fill="#e0e0e0" stroke="#333"/>
+  <text x="80" y="110" text-anchor="middle" font-size="14">Web/App</text>
+  <line x1="140" y1="100" x2="260" y2="100" stroke="#333" marker-end="url(#arrow)"/>
+  <rect x="260" y="60" width="120" height="80" fill="#e0e0e0" stroke="#333"/>
+  <text x="320" y="110" text-anchor="middle" font-size="14">IdarkAi</text>
+</svg>
